@@ -1,1 +1,1 @@
-# Lista2
+Listas de exercícios das sextas-feiras.
